@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    min-height: 100%;
+}
+
+body {
+    background-color: #fff8ed;
+}
+
+.coming-soon {
+    width: 100%;
+}
+
+.coming-soon img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
